@@ -1,0 +1,37 @@
+.logo{
+  width: 300px;
+  margin: 20px 50px 10px 50px;
+}
+
+.nuevo_menu{
+background-color: #1a6b62;
+color: #c0a37e;
+text-decoration: none;
+}
+
+a{
+  color:#c0a37e !important;
+  margin-top: 70px;
+}
+
+.logo_menu{
+  background-color: #1a6b62;
+}
+
+.telefono-img{
+  width: 20px;
+  margin: 80px 10px 10px 50px;
+}
+
+.zona-cotizar{
+  margin-left: 100px;
+}
+
+.numero{
+  color: #e7f1ee;
+  margin: 65px 10px 10px 0px;
+}
+
+.cotiza{
+  
+}
